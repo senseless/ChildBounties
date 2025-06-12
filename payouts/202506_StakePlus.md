@@ -1,18 +1,18 @@
 # \<Stake Plus\>
 | Date | Hours | Hour type | Link | Description | 
 |---|---|---|---|---|
-| 05/30/2025 | 12 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v3 - Debugging & Implementing NATS communication for data retrieval |
-| 05/31/2025 | 1 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v3 - Debugging & Implementing NATS communication for data retrieval |
-| 06/01/2025 | 3 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v3 - Debugging & Implementing NATS communication for data retrieval |
-| 06/02/2025 | 3 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v3 - Debugging & Deploying v3 |
-| 06/04/2025 | 18 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v3 - Debugging & Implementing IBPCollator |
-| 06/05/2025 | 10 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v3 - Debugging & Implementing IBPCollator |
-| 06/06/2025 | 5 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v3 - Debugging & Implementing IBPCollator |
-| 06/07/2025 | 13 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v3 - Debugging & Implementing IBPCollator |
-| 06/11/2025 | 22 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v3 - Debugging & Implementing IBPCollator |
-| 06/12/2025 | 3 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v3 - Implementing IBPCollator |
+| 05/30/2025 | 12 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v0.3 - Debugging & Implementing NATS communication for data retrieval |
+| 05/31/2025 | 1 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v0.3 - Debugging & Implementing NATS communication for data retrieval |
+| 06/01/2025 | 3 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v0.3 - Debugging & Implementing NATS communication for data retrieval |
+| 06/02/2025 | 3 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v0.3 - Debugging & Deploying v3 |
+| 06/04/2025 | 18 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v0.3 - Debugging & Implementing IBPCollator |
+| 06/05/2025 | 10 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v0.3 - Debugging & Implementing IBPCollator |
+| 06/06/2025 | 5 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v0.3 - Debugging & Implementing IBPCollator |
+| 06/07/2025 | 13 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v0.3 - Debugging & Implementing IBPCollator |
+| 06/11/2025 | 22 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v0.4 - Debugging & Implementing IBPCollator |
+| 06/12/2025 | 5 | Engineering | https://github.com/ibp-network/ibp-geodns | IBP-GeoDNS v0.4 - Implementing IBPCollator |
 
 
 ## Total Hours:
 - Administration: 0
-- Engineering: 90
+- Engineering: 92
